@@ -127,9 +127,6 @@ AI_COMPANY/
 ├── test_module2.py      # 모듈 2 (백그라운드 기획 & 1차 HITL 결재) 검증 테스트
 ├── test_module3.py      # 모듈 3 (소스코드 생성 & 2차 HITL 리팩토링) 검증 테스트
 ├── test_module4.py      # 모듈 4 & 5 (GitHub 연동, 플레이테스트, 스팀 상점, 포트폴리오) 검증 테스트
-├── module3.txt          # 모듈 3 작업 지시서 원문
-├── module4.txt          # 모듈 4 작업 지시서 원문
-├── module5.txt          # 모듈 5 작업 지시서 원문
 ├── HANDOFF.md           # [전사 종합 인수인계서] 모듈 1~5 통합 개발 명세
 ├── output/              # 게임 프로젝트별 5대 폴더 안전 저장소
 └── logs/                # 전사 이벤트 로그 저장소
