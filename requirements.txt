@@ -1,0 +1,8 @@
+# ANTI-GRAVITY AI COMPANY SIMULATION ENGINE
+# 본 시스템은 Python 3.8+ 표준 라이브러리(http.server, json, threading, socket)만으로
+# 추가 pip 패키지 설치 없이 100% 독립 실행(Zero-Dependency)되도록 설계되었습니다.
+# 
+# (선택 사항: 추가 프로덕션 확장 시)
+# fastapi>=0.100.0
+# uvicorn>=0.22.0
+# websockets>=11.0
